@@ -21,8 +21,11 @@
 
 技术:
 springboot
-webuploader(多文件断点上传)
+webuploader(多文件断点上传) 
+webuploader官网: http://fex.baidu.com/webuploader/doc/index.html#WebUploader_Uploader_events
 
 ajax(多文件断点下载)
 
 上传下载的断点记录还没做
+
+
